@@ -1,0 +1,116 @@
+body {
+  background-color: #000000 !important;
+  color: white !important;
+  font-family: "Shameimaru Sans", sans-serif;
+}
+
+.hero {
+  background-image: linear-gradient(#8fb8ff, #1f58ba, #000000);
+  margin-top: 0px !important;
+}
+
+.hero-img {
+  width: 400px !important;
+  height: auto !important;
+  margin-top: 100px;
+  padding-bottom: 120px !important;
+}
+
+.hero > h1 {
+  font-size: 100px;
+
+  font-family: "Horizon", sans-serif;
+}
+
+h2 {
+  font-size: 50px !important;
+
+  margin-top: 50px;
+  margin-bottom: 0px !important;
+}
+
+h2 > span {
+  text-decoration: underline;
+}
+
+.hero2img {
+  border-radius: 50% !important;
+  display: block !important;
+}
+
+.hero2txt {
+  font-size: 100px !important;
+  color: rgb(255, 255, 255) !important;
+  font-family: "Shameimaru Sans", sans-serif;
+}
+
+.hero2txt2 {
+  width: 100% !important;
+  font-size: 30px !important;
+  color: rgb(255, 255, 255) !important;
+  font-family: "Shameimaru Sans", sans-serif;
+}
+
+.skills {
+  background-color: #000000 !important;
+  padding-top: 50px !important;
+  padding-bottom: 30px !important;
+}
+
+.skilltxt {
+  color: white !important;
+  text-align: center !important;
+}
+
+.skills > h3 {
+  color: white !important;
+}
+
+.python {
+  display: flex !important;
+  justify-content: left !important;
+}
+
+.frontend {
+  display: flex !important;
+  justify-content: center !important;
+}
+
+.cdsa {
+  display: flex !important;
+  justify-content: right !important;
+}
+
+.icon-square {
+  width: 50px !important;
+  height: auto !important;
+  border-radius: 50% !important;
+}
+
+.contact-me > * {
+  display: flex !important;
+  justify-content: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.btn {
+  display: block !important;
+  background-color: aliceblue;
+  width: 200px !important;
+  margin-left: 840px !important;
+  margin-right: 840px !important;
+  font-family: "Shameimaru Sans", sans-serif;
+}
+
+.contact {
+  background-image: linear-gradient(#000000, #1f58ba, #8fb8ff);
+}
+
+.footer {
+  background-color: #8fb8ff !important;
+  color: white !important;
+  text-align: center !important;
+  padding: 20px !important;
+  font-family: "Shameimaru Sans", sans-serif;
+}
