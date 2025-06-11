@@ -1,0 +1,16 @@
+{
+  "name": "url-to-qr-generator",
+  "version": "1.0.0",
+  "description": "Generate QR code images for user entered URLs",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manav",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.6.3",
+    "qr-image": "^3.2.0"
+  }
+}
