@@ -12,3 +12,14 @@ npm-debug.log*
 .vscode/
 node_modules/
 node_modules/
+
+# dotenv
+.env
+
+# build
+dist/
+build/
+
+# editor config
+.vscode/
+.idea/
